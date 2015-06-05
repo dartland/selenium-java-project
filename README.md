@@ -1,2 +1,2 @@
 # selenium-java-project
-This is my firs project
+This is my first project
